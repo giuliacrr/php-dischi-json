@@ -1,0 +1,22 @@
+body {
+    background-color: #21252b!important;
+}
+
+.spoty-img {
+    width:100px;
+    height: auto;
+}
+
+.cards-box{
+    background-color: #2f333d;
+}
+
+.bg-darker {
+    background-color: #21252b;
+}
+
+.card {
+    background-color: transparent;
+    width: calc((100% / 3) - 3rem);
+    border:0px!important;
+}

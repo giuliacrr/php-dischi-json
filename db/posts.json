@@ -1,0 +1,56 @@
+[
+    {
+        "nome_album": "For Emma, Forever Ago",
+        "nome_artista": "Bon Iver",
+        "anno_uscita": 2007,
+        "immagine": "https://media.s-bol.com/qGynB4P9Drp/3lk6LyR/550x550.jpg"
+    },
+    {
+        "nome_album": "The Suburbs",
+        "nome_artista": "Arcade Fire",
+        "anno_uscita": 2010,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/8/81/Arcade_Fire_-_The_Suburbs.jpg"
+    },
+    {
+        "nome_album": "Lonerism",
+        "nome_artista": "Tame Impala",
+        "anno_uscita": 2012,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/3/31/Tame_Impala_-_Lonerism.png"
+    },
+    {
+        "nome_album": "My Beautiful Dark Twisted Fantasy",
+        "nome_artista": "Kanye West",
+        "anno_uscita": 2010,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/MBDTF_ALT.jpg/220px-MBDTF_ALT.jpg"
+    },
+    {
+        "nome_album": "Is This It",
+        "nome_artista": "The Strokes",
+        "anno_uscita": 2001,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png/220px-The_Strokes_-_Ist_Tis_It_US_cover.png"
+    },
+    {
+        "nome_album": "Funeral",
+        "nome_artista": "Arcade Fire",
+        "anno_uscita": 2004,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/2/25/ArcadeFireFuneralCover.jpg"
+    },
+    {
+        "nome_album": "In Rainbows",
+        "nome_artista": "Radiohead",
+        "anno_uscita": 2007,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png"
+    },
+    {
+        "nome_album": "Currents",
+        "nome_artista": "Tame Impala",
+        "anno_uscita": 2015,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
+    },
+    {
+        "nome_album": "Rumors",
+        "nome_artista": "Fleetwood Mac",
+        "anno_uscita": 1977,
+        "immagine": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
+    }
+]
